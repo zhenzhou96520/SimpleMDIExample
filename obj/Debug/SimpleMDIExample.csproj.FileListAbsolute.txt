@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\SimpleMDIExample\SimpleMDIExample\bin\Debug\SimpleMDIExample.exe.config
+C:\Users\Administrator\Desktop\课程设计\SimpleMDIExample\SimpleMDIExample\bin\Debug\SimpleMDIExample.exe.config
+C:\Users\Administrator\Desktop\课程设计\SimpleMDIExample\SimpleMDIExample\bin\Debug\SimpleMDIExample.exe
+C:\Users\Administrator\Desktop\课程设计\SimpleMDIExample\SimpleMDIExample\bin\Debug\SimpleMDIExample.pdb
+C:\Users\Administrator\Desktop\课程设计\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\课程设计\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.Form1.resources
+C:\Users\Administrator\Desktop\课程设计\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.FrmDoc.resources
+C:\Users\Administrator\Desktop\课程设计\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.Properties.Resources.resources
+C:\Users\Administrator\Desktop\课程设计\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\课程设计\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.exe
+C:\Users\Administrator\Desktop\课程设计\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.pdb
